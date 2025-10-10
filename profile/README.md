@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Heypers Project</h1>
-  <img src="https://github.com/heypers/heypers/blob/main/assets/icons/HP.jpg" width="180" alt="Heypers Logo"/>
+  <img src="https://res.cloudinary.com/dzuibrtku/image/upload/v1/media/avatars/mrf0rtuna4/heypers_logo_xupjiq" width="180" alt="Heypers Logo"/>
 </div>
 
 <p align="center">
