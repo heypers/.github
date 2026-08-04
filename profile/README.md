@@ -1,53 +1,93 @@
 <div align="center">
-  <h1>✨ Heypers Project</h1>
-  <img src="https://res.cloudinary.com/dzuibrtku/image/upload/v1/media/avatars/mrf0rtuna4/heypers_logo_xupjiq" width="180" alt="Heypers Logo"/>
-</div>
 
-<p align="center">
-  <a href="https://www.heypers.org/legal/license/">
-    <img src="https://img.shields.io/badge/License-HeypersLicense-green.svg" alt="License">
-  </a>
-  <a href="https://discord.gg/N8MYbANVJ6">
-    <img src="https://img.shields.io/discord/823510265504989194?label=Discord&logo=discord&logoColor=white&color=5865F2" alt="Discord">
-  </a>
-  <a href="https://www.heypers.org/">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.heypers.org&label=Website&color=blueviolet" alt="Website">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=heypers&style=flat-square&color=brightgreen&label=VIEWS" alt="Views"/>
+# Heypers
+
+<img src="https://res.cloudinary.com/dzuibrtku/image/upload/v1/media/avatars/mrf0rtuna4/heypers_logo_xupjiq" width="180" alt="Heypers Logo"/>
+
+**Building software, communities, and creative projects for people.**
+
+<p>
+
+<a href="https://www.heypers.org">
+<img src="https://img.shields.io/badge/Website-heypers.org-blue?style=for-the-badge">
+</a>
+
+<a href="https://discord.gg/N8MYbANVJ6">
+<img src="https://img.shields.io/discord/823510265504989194?style=for-the-badge&logo=discord">
+</a>
+
+<a href="https://www.heypers.org/legal/license/">
+<img src="https://img.shields.io/badge/License-Heypers-green?style=for-the-badge">
+</a>
+
 </p>
 
----
-
-## 🌀 О проекте
-
-**Heypers Project** - это сообщество и набор инициатив, объединяющих разработчиков, художников и энтузиастов для создания уникальных игровых и интерактивных проектов.
-
-Мы стремимся к тому, чтобы каждый участник мог реализовать свои идеи - от модификаций и серверных систем до творческих проектов и исследовательских инициатив.
+</div>
 
 ---
 
-## 🧩 Что внутри
+## About
 
-- 💻 Исходный код и инструменты  
-- 🧭 Инструкции по установке и настройке  
-- 📘 Документация и примеры  
-- 🌐 Материалы для сообщества
+Heypers is an independent organization focused on creating software, community-driven tools, interactive experiences, and creative projects.
 
-## 📬 Связь с нами
-
-- 💬 [Discord-сервер](https://discord.gg/N8MYbANVJ6) - общайтесь с участниками и разработчиками  
-- 📧 [heypers.team@gmail.com](mailto:heypers.team@gmail.com) - для сотрудничества и предложений  
-- 🌍 [Официальный сайт](https://www.heypers.org/)
+We believe great ideas emerge when developers, designers, artists, and enthusiasts collaborate openly. Whether it's infrastructure, libraries, game-related technologies, or experimental initiatives, our goal is to build projects that are useful, transparent, and enjoyable to contribute to.
 
 ---
 
-## ⚖️ Лицензия
+## What you'll find here
 
-Проект распространяется под **[Heypers License](https://www.heypers.org/legal/license/)**.  
-Использование, копирование и модификация кода регулируются её условиями.
+- 🚀 Open-source applications
+- 🛠 Developer tools and libraries
+- 📚 Documentation and technical resources
+- 🎮 Interactive and game-related projects
+- 🌍 Community initiatives
+
+---
+
+## Our values
+
+- Quality over quantity
+- Continuous learning
+- Long-term sustainability
+- Respect for contributors and users
+
+---
+
+## Contributing
+
+We welcome contributions from developers, designers, writers, translators, testers, and anyone willing to improve our projects.
+
+If you'd like to contribute, start by exploring our community on Discord and checkout [team join page](https://www.heypers.org/team/join/).
+
+---
+
+## Contact
+
+🌐 Website  
+https://www.heypers.org
+
+💬 Discord  
+https://discord.gg/N8MYbANVJ6
+
+📧 Email  
+contact@heypers.org
+
+---
+
+## License
+
+Unless stated otherwise, repositories are distributed under the **Heypers License**.
+
+Read more:
+
+https://www.heypers.org/legal/license/
 
 ---
 
 <div align="center">
-  <sub>© 2021–2025 Heypers Project. Все права защищены.</sub>
+
+Made with ❤️ by the Heypers Team.
+
+© 2021-2026 Heypers Project.
+
 </div>
